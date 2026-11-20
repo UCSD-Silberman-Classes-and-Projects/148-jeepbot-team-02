@@ -10,6 +10,8 @@ Yves Mojica - Electrical & Computer Engineering
 
 Dylan Lee - Mechanical & Aerospace Engineering
 
+Final Presentation: [Slides](https://docs.google.com/presentation/d/19U5DQec5UJ8mXRMkETAvW-No4aoCNlofY_CQVA5Ry3I/edit?usp=sharing)
+
 ## Current Progress
 
 So far, this project includes:
